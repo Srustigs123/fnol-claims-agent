@@ -1,0 +1,17 @@
+FNOL - FIRST NOTICE OF LOSS
+Policy Number: POL-100234
+Policyholder Name: Ravi Kumar
+Effective Dates: 01-01-2026 to 31-12-2026
+Date of Loss: 15-03-2026
+Time of Loss: 14:30
+Location: Silk Board Junction, Bengaluru
+Description: Minor rear-end collision at a traffic signal. Bumper scratched.
+Claimant: Ravi Kumar
+Third Parties: Anil Sharma (KA-05-MN-4521)
+Contact Details: +91 9876543210
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: 18000
+Claim Type: Vehicle Damage
+Attachments: photos.zip
+Initial Estimate: 18000
