@@ -1,0 +1,24 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-100890",
+    "policyholder_name": "Suresh Patel",
+    "effective_dates": "01-01-2026 to 31-12-2026",
+    "incident_date": "22-04-2026",
+    "incident_time": "19:15",
+    "location": "Outer Ring Road, Bengaluru",
+    "description": "Two-wheeler skidded on a wet road. Rider suffered a fractured arm and was taken to hospital.",
+    "claimant": "Suresh Patel",
+    "third_parties": "None",
+    "contact_details": "suresh.patel@example.com",
+    "asset_type": "Motorcycle",
+    "asset_id": "KA51EF9012",
+    "estimated_damage": "40000",
+    "claim_type": "Injury",
+    "attachments": "medical_report.pdf",
+    "initial_estimate": "42000"
+  },
+  "missingFields": [],
+  "inconsistentFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim type is injury, so it goes to the specialist queue."
+}

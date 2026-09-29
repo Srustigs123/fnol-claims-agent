@@ -1,0 +1,24 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-100999",
+    "policyholder_name": "Kiran Rao",
+    "effective_dates": "01-01-2026 to 31-12-2026",
+    "incident_date": "05-05-2026",
+    "incident_time": "02:10",
+    "location": "Whitefield, Bengaluru",
+    "description": "Accident appears staged. Witness statements are inconsistent with the claimant's account.",
+    "claimant": "Kiran Rao",
+    "third_parties": "Unknown person",
+    "contact_details": "+91 9123456780",
+    "asset_type": "SUV",
+    "asset_id": "KA02GH3456",
+    "estimated_damage": "95000",
+    "claim_type": "Vehicle Damage",
+    "attachments": "photos.zip",
+    "initial_estimate": "90000"
+  },
+  "missingFields": [],
+  "inconsistentFields": [],
+  "recommendedRoute": "Investigation Flag",
+  "reasoning": "Description contains suspicious word(s): inconsistent, staged. Flagged for investigation regardless of other rules."
+}

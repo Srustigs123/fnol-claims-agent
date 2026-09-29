@@ -1,0 +1,24 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-100234",
+    "policyholder_name": "Ravi Kumar",
+    "effective_dates": "01-01-2026 to 31-12-2026",
+    "incident_date": "15-03-2026",
+    "incident_time": "14:30",
+    "location": "Silk Board Junction, Bengaluru",
+    "description": "Minor rear-end collision at a traffic signal. Bumper scratched.",
+    "claimant": "Ravi Kumar",
+    "third_parties": "Anil Sharma (KA-05-MN-4521)",
+    "contact_details": "+91 9876543210",
+    "asset_type": "Car",
+    "asset_id": "KA01AB1234",
+    "estimated_damage": "18000",
+    "claim_type": "Vehicle Damage",
+    "attachments": "photos.zip",
+    "initial_estimate": "18000"
+  },
+  "missingFields": [],
+  "inconsistentFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage Rs.18,000 is below Rs.25,000, all fields present, no red flags."
+}

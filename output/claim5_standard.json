@@ -1,0 +1,24 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-101100",
+    "policyholder_name": "Lakshmi Nair",
+    "effective_dates": "01-01-2026 to 31-12-2026",
+    "incident_date": "18-06-2026",
+    "incident_time": "11:00",
+    "location": "MG Road, Bengaluru",
+    "description": "Vehicle hit by a falling tree branch during heavy rain.",
+    "claimant": "Lakshmi Nair",
+    "third_parties": "None",
+    "contact_details": "+91 9988776655",
+    "asset_type": "Car",
+    "asset_id": "KA04JK7890",
+    "estimated_damage": "60000",
+    "claim_type": "Vehicle Damage",
+    "attachments": "photos.zip",
+    "initial_estimate": "58000"
+  },
+  "missingFields": [],
+  "inconsistentFields": [],
+  "recommendedRoute": "Standard Processing",
+  "reasoning": "Estimated damage Rs.60,000 is at or above Rs.25,000; no special rule applies."
+}

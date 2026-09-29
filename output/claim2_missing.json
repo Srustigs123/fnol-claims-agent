@@ -1,0 +1,28 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-100567",
+    "policyholder_name": "Meena Iyer",
+    "effective_dates": "01-06-2025 to 31-05-2026",
+    "incident_date": "10-02-2026",
+    "incident_time": null,
+    "location": "Indiranagar, Bengaluru",
+    "description": "Car hit a parked vehicle while reversing.",
+    "claimant": "Meena Iyer",
+    "third_parties": "None",
+    "contact_details": null,
+    "asset_type": "Car",
+    "asset_id": "KA03CD5678",
+    "estimated_damage": "12000",
+    "claim_type": "Vehicle Damage",
+    "attachments": null,
+    "initial_estimate": "12000"
+  },
+  "missingFields": [
+    "incident_time",
+    "contact_details",
+    "attachments"
+  ],
+  "inconsistentFields": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Mandatory field(s) missing: incident_time, contact_details, attachments. A human must complete or verify the claim."
+}
